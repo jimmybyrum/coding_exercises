@@ -4,7 +4,7 @@ Use any other frameworks, jQuery plugins, etc. that you'd like.
 
 Bonus points for managing the browser History object so that each band has a unique url that can be bookmarked. Extra bonus points for making the data editable. Super bonus points for making those changes persistentent on the client.
 
-Since I know you haven't already used Backbone, this should help get you going with a client-side only implementation after you read over the basics:
+In case you haven't already used Backbone, this should help get you going with a client-side only implementation after you read over the basics:
 http://backbonejs.org/#FAQ-bootstrap
 
 Don't worry about it working on anything but modern browsers (IE8 and better), and assuming the user has JS enabled is fine.
