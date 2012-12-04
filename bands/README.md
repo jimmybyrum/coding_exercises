@@ -10,7 +10,6 @@ http://backbonejs.org/#FAQ-bootstrap
 Don't worry about it working on anything but modern browsers (IE8 and better), and assuming the user has JS enabled is fine.
 
 Looking forward to seeing what you come up with!
-Jimmy
 
 [1] http://backbonejs.org/
 
