@@ -2,7 +2,7 @@ This will be focused entirely on Frontend coding. Using Backbone.js [1] as the M
 
 Use any other frameworks, jQuery plugins, etc. that you'd like.
 
-Bonus points for managing the browser History object so that each band has a unique url that can be bookmarked. Extra bonus points for making the data editable. Super bonus points for making those changes persistentent on the client.
+Bonus points for managing the browser History object so that each band has a unique url that can be bookmarked. Extra bonus points for making the data editable. Super bonus points for making those changes persistent on the client.
 
 In case you haven't already used Backbone, this should help get you going with a client-side only implementation after you read over the basics:
 http://backbonejs.org/#FAQ-bootstrap
