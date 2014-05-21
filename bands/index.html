@@ -121,7 +121,6 @@ var Router = Backbone.Router.extend({
       collection: Bands
     });
     bands_view.render();
-    console.warn(band);
     if (band) {
       $("#band-" + band).trigger("click");
     }
