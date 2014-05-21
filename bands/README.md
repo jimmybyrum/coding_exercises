@@ -12,4 +12,5 @@ Don't worry about it working on anything but modern browsers (IE9 and better), a
 Looking forward to seeing what you come up with!
 
 [1] http://backbonejs.org/
+
 [2] https://github.com/visionmedia/ejs
