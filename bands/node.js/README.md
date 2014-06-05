@@ -9,4 +9,6 @@ Bonus points for making the data editable. Extra bonus points for making those c
 
 This should work on modern desktop (IE9+) and mobile browsers. Feel free to change the UI/UX as you see fit for a good experience on mobile browsers.
 
+Post your solution in a Github repo with some documentation in the README of your approach and any instructions for how to run the site.
+
 Looking forward to seeing what you come up with!
