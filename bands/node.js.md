@@ -1,4 +1,4 @@
-Using a hapi [1] server and EJS [2] templates, and the attached data structure, create a page that renders a list of the bands on the left, and when a band name is clicked, the details of that band are displayed to the right of the list.
+Using a hapi [1] server and EJS [2] templates, and the [attached data structure](./bands.json), create a page that renders a list of the bands on the left, and when a band name is clicked, the details of that band are displayed to the right of the list.
 
 Use any other node modules, frontend frameworks (Bootstrap), libraries (jQuery) etc. that you'd like.
 
