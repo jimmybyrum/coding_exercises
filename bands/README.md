@@ -1,5 +1,5 @@
 ### [Frontend](./frontend)
 Using Backbone and EJS
 
-### [Backend](./backend)
+### [node.js](./node.js)
 Using hapi and EJS
